@@ -73,19 +73,19 @@ export default function Home() {
               transition={{ duration: 0.6, delay: 0.1 }}
               viewport={{ once: true }}
             >
-              <div className="flex-shrink-0 w-8 h-8 bg-black rounded-full flex items-center justify-center relative z-10">
+              <div className="flex-shrink-0 w-8 h-8 bg-black dark:bg-white rounded-full flex items-center justify-center relative z-10">
                 <div className="w-3 h-3 bg-white rounded-full"></div>
               </div>
               <div className="ml-6 flex-1">
                 <div className="bg-white dark:bg-gray-900 p-6 rounded-lg border border-gray-200 dark:border-gray-800 shadow-sm">
-                  <h4 className="text-xl font-semibold mb-2 text-black">Staying or Returning?</h4>
+                  <h4 className="text-xl font-semibold mb-2 text-black dark:text-white">Staying or Returning?</h4>
                   <p className="text-gray-700 dark:text-gray-300">
                     Time flies — without realizing it, I had already worked for two years at
                     One51. I truly cherish the memories and relationships I built with my
                     colleagues and clients there. Then came an opportunity to join a big
                     company, which I decided to pursue. But not long after joining, I had to
-                    submit another resignation due to personal reasons. Looking back, I see it
-                    as a calling to return home — to Indonesia.
+                    submit another resignation due to personal reasons. I think it was a calling
+                    to return home — to Indonesia.
                   </p>
                 </div>
               </div>
@@ -99,12 +99,12 @@ export default function Home() {
               transition={{ duration: 0.6, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              <div className="flex-shrink-0 w-8 h-8 bg-black rounded-full flex items-center justify-center relative z-10">
+              <div className="flex-shrink-0 w-8 h-8 bg-black dark:bg-white rounded-full flex items-center justify-center relative z-10">
                 <div className="w-3 h-3 bg-white rounded-full"></div>
               </div>
               <div className="ml-6 flex-1">
                 <div className="bg-white dark:bg-gray-900 p-6 rounded-lg border border-gray-200 dark:border-gray-800 shadow-sm">
-                  <h4 className="text-xl font-semibold mb-2 text-black">First Career Breakthrough</h4>
+                  <h4 className="text-xl font-semibold mb-2 text-black dark:text-white">First Career Breakthrough</h4>
                   <p className="text-gray-700 dark:text-gray-300">
                     Just six months before graduation, I panicked because I hadn&apos;t done any
                     internships. The job market for IT graduates at the time wasn&apos;t great
@@ -125,12 +125,12 @@ export default function Home() {
               transition={{ duration: 0.6, delay: 0.3 }}
               viewport={{ once: true }}
             >
-              <div className="flex-shrink-0 w-8 h-8 bg-black rounded-full flex items-center justify-center relative z-10">
+              <div className="flex-shrink-0 w-8 h-8 bg-black dark:bg-white rounded-full flex items-center justify-center relative z-10">
                 <div className="w-3 h-3 bg-white rounded-full"></div>
               </div>
               <div className="ml-6 flex-1">
                 <div className="bg-white dark:bg-gray-900 p-6 rounded-lg border border-gray-200 dark:border-gray-800 shadow-sm">
-                  <h4 className="text-xl font-semibold mb-2 text-black">Leaving Indonesia for University</h4>
+                  <h4 className="text-xl font-semibold mb-2 text-black dark:text-white">Leaving Indonesia for University</h4>
                   <p className="text-gray-700 dark:text-gray-300">
                     After the Covid lockdowns in Australia ended, I immediately flew there to
                     pursue my IT degree in Data Analytics and Business Information Systems
@@ -148,12 +148,12 @@ export default function Home() {
               transition={{ duration: 0.6, delay: 0.4 }}
               viewport={{ once: true }}
             >
-              <div className="flex-shrink-0 w-8 h-8 bg-black rounded-full flex items-center justify-center relative z-10">
+              <div className="flex-shrink-0 w-8 h-8 bg-black dark:bg-white rounded-full flex items-center justify-center relative z-10">
                 <div className="w-3 h-3 bg-white rounded-full"></div>
               </div>
               <div className="ml-6 flex-1">
                 <div className="bg-white dark:bg-gray-900 p-6 rounded-lg border border-gray-200 dark:border-gray-800 shadow-sm">
-                  <h4 className="text-xl font-semibold mb-2 text-black">Dropping Out of High School</h4>
+                  <h4 className="text-xl font-semibold mb-2 text-black dark:text-white">Dropping Out of High School</h4>
                   <p className="text-gray-700 dark:text-gray-300">
                     I decided to drop out of high school. Why? Because I had been coding since
                     I was 12 and already knew that IT was the career I wanted to pursue. So, I
