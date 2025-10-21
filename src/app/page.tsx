@@ -59,7 +59,7 @@ export default function Home() {
                   <h4 className="text-xl font-semibold mb-2 text-blue-500">Present</h4>
                   <p className="text-gray-700 dark:text-gray-300">
                     Taking a break — learning, reflecting, and exploring new opportunities in
-                    Indonesia. Let's have a chat!
+                    Indonesia. Let&apos;s have a chat!
                   </p>
                 </div>
               </div>
@@ -106,8 +106,8 @@ export default function Home() {
                 <div className="bg-white dark:bg-gray-900 p-6 rounded-lg border border-gray-200 dark:border-gray-800 shadow-sm">
                   <h4 className="text-xl font-semibold mb-2 text-black">First Career Breakthrough</h4>
                   <p className="text-gray-700 dark:text-gray-300">
-                    Just six months before graduation, I panicked because I hadn't done any
-                    internships. The job market for IT graduates at the time wasn't great
+                    Just six months before graduation, I panicked because I hadn&apos;t done any
+                    internships. The job market for IT graduates at the time wasn&apos;t great
                     either. I remember sleeping only four hours a day, grinding in my bedroom
                     to upskill myself. Fortunately, my hard work paid off — I managed to secure
                     my first tech internship at One51. Even better, that internship was
